@@ -1,5 +1,2 @@
-Git
-Git官方发布
-
-给i他
-给i他官方发布
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
